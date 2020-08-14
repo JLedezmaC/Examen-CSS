@@ -17,13 +17,11 @@ body{
 .wrapper{
     width: 960px;
     margin: 0 auto;
-    border: 7px solid orange;
 }
 
 .wrapper2{
     width: 900px;
     margin: 0 auto;
-    border: 7px solid orange;
 }
 
 .main-logo{
